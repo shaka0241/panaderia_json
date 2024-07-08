@@ -1,0 +1,60 @@
+{
+    "paginaHome": {
+      "nombre": "Delicias de la Panadería",
+      "direccion": "Calle Falsa 123, Ciudad Ejemplo",
+      "telefonos": ["+123456789", "+987654321"],
+      "redes_sociales": {
+        "facebook": "https://facebook.com/deliciasdelapanaderia",
+        "instagram": "https://instagram.com/deliciasdelapanaderia",
+        "twitter": "https://twitter.com/deliciaspan"
+      },
+      "contacto": {
+        "email": "contacto@deliciaspanaderia.com",
+        "sitio_web": "https://www.deliciaspanaderia.com"
+      },
+      "materia_prima": {
+        "costo_actual": {
+          "harina": "1.20 USD/kg",
+          "mantequilla": "3.50 USD/kg",
+          "azucar": "1.00 USD/kg"
+        },
+        "niveles_stock": {
+          "harina": "200 kg",
+          "mantequilla": "50 kg",
+          "azucar": "100 kg"
+        }
+      },
+      "proveedores": [
+        {
+          "nombre": "Proveedor Harina S.A.",
+          "contacto": "harina@proveedores.com",
+          "telefono": "+123456789"
+        },
+        {
+          "nombre": "Mantequillas del Valle",
+          "contacto": "mantequilla@proveedores.com",
+          "telefono": "+987654321"
+        },
+        {
+          "nombre": "Azúcar y Más",
+          "contacto": "azucar@proveedores.com",
+          "telefono": "+1122334455"
+        }
+      ],
+      "promociones": [
+        {
+          "nombre": "Descuento de Verano",
+          "descripcion": "10% de descuento en todos los croissants",
+          "fecha_inicio": "2024-06-01",
+          "fecha_fin": "2024-08-31"
+        },
+        {
+          "nombre": "2x1 en Pan Integral",
+          "descripcion": "Lleva 2 panes integrales por el precio de 1",
+          "fecha_inicio": "2024-07-01",
+          "fecha_fin": "2024-07-15"
+        }
+      ]
+    }
+  }
+  

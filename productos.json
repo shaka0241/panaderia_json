@@ -1,0 +1,165 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Pan Integral",
+        "tipo": "Pan",
+        "precio": 2.50,
+        "descripcion": "Pan saludable y nutritivo, ideal para una dieta balanceada.",
+        "stock": 50
+      },
+      {
+        "id": 2,
+        "nombre": "Pan Blanco",
+        "tipo": "Pan",
+        "precio": 2.00,
+        "descripcion": "Pan suave y esponjoso, perfecto para cualquier comida del día.",
+        "stock": 60
+      },
+      {
+        "id": 3,
+        "nombre": "Pan de Centeno",
+        "tipo": "Pan",
+        "precio": 3.00,
+        "descripcion": "Pan con un sabor rico y una textura única, excelente para sándwiches.",
+        "stock": 40
+      },
+      {
+        "id": 4,
+        "nombre": "Pan de Masa Madre",
+        "tipo": "Pan",
+        "precio": 3.50,
+        "descripcion": "Pan naturalmente fermentado, con un sabor profundo y una corteza crujiente.",
+        "stock": 30
+      },
+      {
+        "id": 5,
+        "nombre": "Pan Multigrano",
+        "tipo": "Pan",
+        "precio": 3.00,
+        "descripcion": "Pan cargado de semillas y granos, para una opción deliciosa y nutritiva.",
+        "stock": 35
+      },
+      {
+        "id": 6,
+        "nombre": "Pan Brioche",
+        "tipo": "Pan",
+        "precio": 4.00,
+        "descripcion": "Pan dulce y esponjoso, ideal para el desayuno o el postre.",
+        "stock": 25
+      },
+      {
+        "id": 7,
+        "nombre": "Pan de Avena",
+        "tipo": "Pan",
+        "precio": 2.75,
+        "descripcion": "Pan suave con avena, perfecto para una opción más saludable.",
+        "stock": 45
+      },
+      {
+        "id": 8,
+        "nombre": "Pan Rústico",
+        "tipo": "Pan",
+        "precio": 3.25,
+        "descripcion": "Pan con una corteza crujiente y un interior suave, excelente para acompañar comidas.",
+        "stock": 20
+      },
+      {
+        "id": 9,
+        "nombre": "Pan de Papa",
+        "tipo": "Pan",
+        "precio": 2.50,
+        "descripcion": "Pan suave y esponjoso hecho con papas, ideal para sándwiches.",
+        "stock": 40
+      },
+      {
+        "id": 10,
+        "nombre": "Pan de Espelta",
+        "tipo": "Pan",
+        "precio": 3.75,
+        "descripcion": "Pan nutritivo hecho con harina de espelta, ideal para una dieta saludable.",
+        "stock": 30
+      },
+      {
+        "id": 11,
+        "nombre": "Croissant Clásico",
+        "tipo": "Croissant",
+        "precio": 2.00,
+        "descripcion": "Hoja de mantequilla, ligero y crujiente, perfecto para un desayuno elegante.",
+        "stock": 50
+      },
+      {
+        "id": 12,
+        "nombre": "Croissant de Chocolate",
+        "tipo": "Croissant",
+        "precio": 2.50,
+        "descripcion": "Relleno de rico chocolate, una delicia para los amantes del dulce.",
+        "stock": 45
+      },
+      {
+        "id": 13,
+        "nombre": "Croissant de Almendra",
+        "tipo": "Croissant",
+        "precio": 3.00,
+        "descripcion": "Relleno y cubierto con crema de almendras, una opción exquisita.",
+        "stock": 35
+      },
+      {
+        "id": 14,
+        "nombre": "Croissant de Jamón y Queso",
+        "tipo": "Croissant",
+        "precio": 3.50,
+        "descripcion": "Salado y sabroso, ideal para un bocadillo sustancioso.",
+        "stock": 30
+      },
+      {
+        "id": 15,
+        "nombre": "Croissant Vegano",
+        "tipo": "Croissant",
+        "precio": 2.75,
+        "descripcion": "Hecho sin productos animales, para que todos puedan disfrutar de este clásico.",
+        "stock": 40
+      },
+      {
+        "id": 16,
+        "nombre": "Croissant de Frambuesa",
+        "tipo": "Croissant",
+        "precio": 3.25,
+        "descripcion": "Relleno de deliciosa frambuesa, perfecto para un toque frutal.",
+        "stock": 30
+      },
+      {
+        "id": 17,
+        "nombre": "Croissant de Pistacho",
+        "tipo": "Croissant",
+        "precio": 3.75,
+        "descripcion": "Relleno y cubierto con crema de pistacho, una opción gourmet.",
+        "stock": 25
+      },
+      {
+        "id": 18,
+        "nombre": "Croissant de Miel",
+        "tipo": "Croissant",
+        "precio": 2.50,
+        "descripcion": "Endulzado con miel natural, perfecto para un desayuno dulce.",
+        "stock": 40
+      },
+      {
+        "id": 19,
+        "nombre": "Croissant de Canela",
+        "tipo": "Croissant",
+        "precio": 2.75,
+        "descripcion": "Relleno y espolvoreado con canela, una delicia aromática.",
+        "stock": 35
+      },
+      {
+        "id": 20,
+        "nombre": "Croissant de Coco",
+        "tipo": "Croissant",
+        "precio": 3.00,
+        "descripcion": "Relleno de crema de coco, una opción tropical y deliciosa.",
+        "stock": 30
+      }
+    ]
+  }
+  
